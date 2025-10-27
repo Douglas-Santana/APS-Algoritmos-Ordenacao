@@ -53,7 +53,11 @@ O programa, escrito em Linguagem C, funciona como um banco de testes (*benchmark
 
 Este projeto foi desenvolvido por:
 
-* Douglas Fonseca de Santana. 
+* Douglas Fonseca de Santana.
+* Guilherme Augusto de Oliveira
 
 ### Professor Orientador
 * Prof. Álvaro.
+
+### Coordenador 
+* Mario.
