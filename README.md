@@ -3,20 +3,20 @@
 ![Status: Concluído](https://img.shields.io/badge/status-concluído-brightgreen)
 ![Linguagem](https://img.shields.io/badge/linguagem-C-blue)
 
-[cite_start] Este é um projeto acadêmico desenvolvido para a Atividade Prática Supervisionada (APS) do curso de Ciência da Computação da Universidade Paulista (UNIP) [cite: 1, 17].
+Este é um projeto acadêmico desenvolvido para a Atividade Prática Supervisionada (APS) do curso de Ciência da Computação da Universidade Paulista (UNIP).
 
-[cite_start]O objetivo principal é implementar, analisar e comparar o desempenho de três algoritmos de ordenação fundamentais: **Bubble Sort**, **Insertion Sort** e **Quick Sort**[cite: 48].
+O objetivo principal é implementar, analisar e comparar o desempenho de três algoritmos de ordenação fundamentais: **Bubble Sort**, **Insertion Sort** e **Quick Sort**.
 
-O programa, escrito em Linguagem C, funciona como um banco de testes (*benchmark*) que cronometra o tempo de execução de cada algoritmo ao ordenar um vetor de 30.000 números aleatórios. [cite_start]O projeto demonstra na prática a diferença de complexidade e eficiência entre os algoritmos $O(n^2)$ (Bubble e Insertion) e o $O(n \log n)$ (Quick Sort)[cite: 178, 179].
+O programa, escrito em Linguagem C, funciona como um banco de testes (*benchmark*) que cronometra o tempo de execução de cada algoritmo ao ordenar um vetor de 30.000 números aleatórios. O projeto demonstra na prática a diferença de complexidade e eficiência entre os algoritmos $O(n^2)$ (Bubble e Insertion) e o $O(n \log n)$ (Quick Sort)
 
 ## 🚀 Funcionalidades
 
 * **Menu interativo** via console.
 * **Comparação de 3 algoritmos:** Bubble Sort, Insertion Sort e Quick Sort.
-* [cite_start]**Geração de dados:** O programa cria vetores idênticos com 30.000 números aleatórios para garantir uma comparação justa entre os algoritmos[cite: 246].
+* **Geração de dados:** O programa cria vetores idênticos com 30.000 números aleatórios para garantir uma comparação justa entre os algoritmos.
 * **Medição de performance:** Cronômetro de alta precisão (em milissegundos) para cada operação de ordenação.
 * **Relatório de Desempenho:** Uma opção no menu exibe um resumo dos tempos gastos por cada algoritmo já executado.
-* [cite_start]**Verificação de Ordenação:** Inclui uma função de Busca Binária para que o usuário possa pesquisar um número e confirmar que o vetor foi ordenado corretamente[cite: 269].
+* **Verificação de Ordenação:** Inclui uma função de Busca Binária para que o usuário possa pesquisar um número e confirmar que o vetor foi ordenado corretamente.
 
 ## ⚙️ Tecnologias Utilizadas
 
