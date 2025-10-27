@@ -3,7 +3,7 @@
 ![Status: Concluído](https://img.shields.io/badge/status-concluído-brightgreen)
 ![Linguagem](https://img.shields.io/badge/linguagem-C-blue)
 
-[cite_start]Este é um projeto acadêmico desenvolvido para a Atividade Prática Supervisionada (APS) do curso de Ciência da Computação da Universidade Paulista (UNIP)[cite: 1, 17].
+[cite_start] Este é um projeto acadêmico desenvolvido para a Atividade Prática Supervisionada (APS) do curso de Ciência da Computação da Universidade Paulista (UNIP) [cite: 1, 17].
 
 [cite_start]O objetivo principal é implementar, analisar e comparar o desempenho de três algoritmos de ordenação fundamentais: **Bubble Sort**, **Insertion Sort** e **Quick Sort**[cite: 48].
 
