@@ -1,4 +1,4 @@
-# Implementação e Análise de Algoritmos de Ordenação 📈
+# Implementação e Análise de Algoritmos de Ordenação📈
 
 ![Status: Concluído](https://img.shields.io/badge/status-concluído-brightgreen)
 ![Linguagem](https://img.shields.io/badge/linguagem-C-blue)
